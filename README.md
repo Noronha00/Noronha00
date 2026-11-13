@@ -1,6 +1,7 @@
 meu nome é João Victor Noronha Pereira 
 faço faculdade de ADS na unicid 
-e tenho 19anos 
+e tenho 19 
+anos 
 
 <!---
 Noronha00/Noronha00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
